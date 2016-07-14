@@ -4,9 +4,10 @@ Each user should change their section
 
 Innocent
 
-Shino
+Shino made changes
 
-Troy
+Troy: Troy's modification 
+
 
 Moses
 
